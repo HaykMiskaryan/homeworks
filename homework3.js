@@ -57,3 +57,7 @@ function  primeNumber (n){
     }
     console.log("The " + n + "-th prime number is: " + primes[n - 1]);
 }
+//5.Insert two positive integers n and m between 1 and 10. Compute and print n m .
+function degree(n , m){
+    return n ** m
+}
